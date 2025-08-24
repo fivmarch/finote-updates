@@ -3,8 +3,8 @@
   "description": "Finote money tracker for desktop",
   "items": [
     {
-      "version": "1.0.1",
-      "shortVersion": 2,
+      "version": "1.0.0",
+      "shortVersion": 1,
       "changes": [
         {"type": "feat", "message": "New chart in dashboard page"},
         {"type": "fix", "message": "Fix UI crash"}

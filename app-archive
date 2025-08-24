@@ -10,7 +10,7 @@
         {"type": "fix", "message": "Fix UI crash"}
       ],
       "date": "2025-08-23",
-      "mandatory": true,
+      "mandatory": false,
       "url": "https://fivmarch.github.io/finote-updates/archive/1.0.0%2B1-windows",
       "platform": "windows"
     },

@@ -1,0 +1,30 @@
+{
+  "appName": "Finote",
+  "description": "Finote money tracker for desktop",
+  "items": [
+    {
+      "version": "1.0.0",
+      "shortVersion": 1,
+      "changes": [
+        {"type": "feat", "message": "New chart in dashboard page"},
+        {"type": "fix", "message": "Fix UI crash"}
+      ],
+      "date": "2025-08-23",
+      "mandatory": false,
+      "url": "https://fivmarch/finote-updates/archive/1.0.+1-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "shortVersion": 1,
+      "changes": [
+        {"type": "feat", "message": "New chart in dashboard page"},
+        {"type": "fix", "message": "On testing on Mac"}
+      ],
+      "date": "2025-08-23",
+      "mandatory": false,
+      "url": "https://fivmarch/archive/finote/1.2.0%2B17-macos",
+      "platform": "macos"
+    }
+  ]
+}
